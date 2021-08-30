@@ -1,14 +1,24 @@
 {
   "dev_only":
   [
-    "___Lyon___",
-    "DarkestKnight__"
+    {
+      "Name": "___Lyon___",
+      "UUID": "f3f6ca09e89e4b5dbd034b0de500e7e5"
+    }
+    {
+      "Name": "DarkestKnight__",
+      "UUID": "b80a7d267ea144f19819bb8726c8ec19"
+    }
   ],
   "early_access":
   [
-    "___Lyon___",
-    "DarkestKnight__",
-    "___Lyon___",
-    "DarkestKnight__",
+    {
+      "Name": "___Lyon___",
+      "UUID": "f3f6ca09e89e4b5dbd034b0de500e7e5"
+    }
+    {
+      "Name": "DarkestKnight__",
+      "UUID": "b80a7d267ea144f19819bb8726c8ec19"
+    }
   ]
 }
