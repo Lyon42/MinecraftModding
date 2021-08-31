@@ -3,22 +3,26 @@
   [
     {
       "Name": "___Lyon___",
-      "UUID": "f3f6ca09e89e4b5dbd034b0de500e7e5"
+      "UUID": "f3f6ca09-e89e-4b5d-bd03-4b0de500e7e5"
     },
     {
       "Name": "DarkestKnight__",
-      "UUID": "b80a7d267ea144f19819bb8726c8ec19"
+      "UUID": "b80a7d26-7ea1-44f1-9819-bb8726c8ec19"
+    },
+    {
+      "Name": "Dev",
+      "UUID": "380df991-f603-344c-a090-369bad2a924a"
     }
   ],
   "early_access":
   [
     {
       "Name": "___Lyon___",
-      "UUID": "f3f6ca09e89e4b5dbd034b0de500e7e5"
+      "UUID": "f3f6ca09-e89e-4b5d-bd03-4b0de500e7e5"
     },
     {
       "Name": "DarkestKnight__",
-      "UUID": "b80a7d267ea144f19819bb8726c8ec19"
+      "UUID": "b80a7d26-7ea1-44f1-9819-bb8726c8ec19"
     }
   ]
 }
