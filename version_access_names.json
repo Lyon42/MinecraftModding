@@ -46,11 +46,6 @@
       "UUID": "e491fbe6ee114f4da2ff2769c0ea09e4"
     },
     {
-      "Ingame-Name": "Epicjayman239",
-      "Discord-Tag": "epicjayman#4699",
-      "UUID": "5ca8356ac67644738fe6d8f67baa35c5"
-    },
-    {
       "Ingame-Name": "PiersMorganUK",
       "Discord-Tag": "Checkmate-01#5159",
       "UUID": "1a8babb92ad64248bbfe24423b4ff170"
@@ -69,7 +64,18 @@
       "Ingame-Name": "Runaground",
       "Discord-Tag": "Runaground#2819",
       "UUID": "59ed19c2cca348d9863dfd8d3f19f9bf"
+    },
+	{
+      "Ingame-Name": "Meestaboi",
+      "Discord-Tag": "Meesta-boi#9339",
+      "UUID": "7647d0c523364927bebee44745eac111"
+    },
+	{
+      "Ingame-Name": "Dumy09",
+      "Discord-Tag": "Dumy#7702",
+      "UUID": "6825adb7abe249249506b31319bdb2be"
     }
+  ],
   ],
   "early_access":
   [
