@@ -35,31 +35,6 @@
       "Discord-Tag": "SuperShark#7609",
       "UUID": "24aa64582cc9492988da157d5ee25eab"
     },
-    {
-      "Ingame-Name": "HafenJungeLOL",
-      "Discord-Tag": "HafenJungeLOL#8112",
-      "UUID": "bdc2099fb6e44387837b7c8825ebb0e3"
-    },
-    {
-      "Ingame-Name": "henry42069",
-      "Discord-Tag": "henREE#8056",
-      "UUID": "e491fbe6ee114f4da2ff2769c0ea09e4"
-    },
-    {
-      "Ingame-Name": "PiersMorganUK",
-      "Discord-Tag": "Checkmate-01#5159",
-      "UUID": "1a8babb92ad64248bbfe24423b4ff170"
-    },
-    {
-      "Ingame-Name": "Fabian__kun",
-      "Patron": "Fabian__kun",
-      "UUID": "e4300694d07f4a8dbecadeb9ac5c9be1"
-    },
-    {
-      "Ingame-Name": "Hyydden",
-      "Discord-Tag": "Hydden#7446",
-      "UUID": "f494015b48bc4474b78087d507da17ca"
-    },
 	{
       "Ingame-Name": "Runaground",
       "Discord-Tag": "Runaground#2819",
@@ -74,6 +49,27 @@
       "Ingame-Name": "Dumy09",
       "Discord-Tag": "Dumy#7702",
       "UUID": "6825adb7abe249249506b31319bdb2be"
+    },
+    {
+      "Ingame-Name": "HafenJungeLOL",
+      "Discord-Tag": "HafenJungeLOL#8112",
+      "UUID": "bdc2099fb6e44387837b7c8825ebb0e3"
+    },
+    {
+      "Ingame-Name": "henry42069",
+      "Discord-Tag": "@h.#3545",
+      "Patron": "Henry Pham",
+      "UUID": "e491fbe6ee114f4da2ff2769c0ea09e4"
+    },
+    {
+      "Ingame-Name": "Fabian__kun",
+      "Patron": "Fabian__kun",
+      "UUID": "e4300694d07f4a8dbecadeb9ac5c9be1"
+    },
+    {
+      "Ingame-Name": "Hyydden",
+      "Discord-Tag": "Hydden#7446",
+      "UUID": "f494015b48bc4474b78087d507da17ca"
     }
   ],
   "early_access":
