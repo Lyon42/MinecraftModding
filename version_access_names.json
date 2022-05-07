@@ -45,7 +45,7 @@
       "Discord-Tag": "Meesta-boi#9339",
       "UUID": "7647d0c523364927bebee44745eac111"
     },
-	{
+    {
       "Ingame-Name": "Dumy09",
       "Discord-Tag": "Dumy#7702",
       "UUID": "6825adb7abe249249506b31319bdb2be"
@@ -56,26 +56,14 @@
       "UUID": "bdc2099fb6e44387837b7c8825ebb0e3"
     },
     {
-      "Ingame-Name": "henry42069",
-      "Discord-Tag": "@h.#3545",
-      "Patron": "Henry Pham",
-      "UUID": "e491fbe6ee114f4da2ff2769c0ea09e4"
-    },
-    {
-      "Ingame-Name": "Hyydden",
-      "Discord-Tag": "Hydden#7446",
-      "UUID": "f494015b48bc4474b78087d507da17ca"
-    },
-	{
-      "Ingame-Name": "ssk0503",
-      "Discord-Tag": "ああああ#7772",
-	  "Patron": "あああ ああ",
-      "UUID": "be61bdbe70f94f0fbf9c79fc67900e53"
-    },
-    {
 	"Ingame-Name": "Ryuvate",
 	"Patron": "Tyler Danson",
 	"UUID": "3bbe59de3ce9499899d8b8e68732985c"
+    },
+    {
+	"Ingame-Name": "TheRHC",
+	"Patron": "TheRHC",
+	"UUID": "eb5bcd4a98184173aac768be487829f6"
     }
   ],
   "early_access":
