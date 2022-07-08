@@ -51,15 +51,15 @@
       "UUID": "6825adb7abe249249506b31319bdb2be"
     },
     {
-	"Ingame-Name": "Ryuvate",
-	"Patron": "Tyler Danson",
-	"UUID": "3bbe59de3ce9499899d8b8e68732985c"
+		"Ingame-Name": "Ryuvate",
+		"Patron": "Tyler Danson",
+		"UUID": "3bbe59de3ce9499899d8b8e68732985c"
     },
     {
-	"Ingame-Name": "Sora_Tokidaso",
-	"Patron": "sky",
-	"UUID": "239900da38494af1afcf02a729820372"
-    },
+		"Ingame-Name": "Sora_Tokidaso",
+		"Patron": "sky",
+		"UUID": "239900da38494af1afcf02a729820372"
+    }
   ],
   "early_access":
   [
