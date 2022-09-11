@@ -78,10 +78,15 @@
       "Patron": "Rionam",
       "UUID": "80b7d462116c458eaf98152dc2670adf"
     },
-	{
+    {
       "Ingame-Name": "0TIME0",
       "Patron": "Fabio Petillo",
       "UUID": "3223c246d22848e99d9a92963650029e"
+    },
+    {
+      "Ingame-Name": "Nykuro",
+      "Patron": "andromeda",
+      "UUID": "c7185c5a390745aab57652bb36afe66d"
     }
   ],
   "early_access":
