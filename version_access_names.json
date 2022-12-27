@@ -78,12 +78,12 @@
       "Patron": "Rionam",
       "UUID": "80b7d462116c458eaf98152dc2670adf"
     },
-    {
+	{
       "Ingame-Name": "0TIME0",
       "Patron": "Fabio Petillo",
       "UUID": "3223c246d22848e99d9a92963650029e"
     },
-    {
+	{
       "Ingame-Name": "Nykuro",
       "Patron": "andromeda",
       "UUID": "c7185c5a390745aab57652bb36afe66d"
@@ -96,19 +96,5 @@
   ],
   "early_access":
   [
-    {
-      "Ingame-Name": "___Lyon___",
-      "Discord-Tag": "Lyøn#5767",
-      "UUID": "f3f6ca09e89e4b5dbd034b0de500e7e5"
-    },
-    {
-      "Ingame-Name": "DarkestKnight__",
-      "Discord-Tag": "DarkestKnight__#3343",
-      "UUID": "b80a7d267ea144f19819bb8726c8ec19"
-    },
-    {
-      "Ingame-Name": "Dev",
-      "UUID": "380df991f603344ca090369bad2a924a"
-    }
   ]
 }
