@@ -51,6 +51,16 @@
       "UUID": "6825adb7abe249249506b31319bdb2be"
     },
     {
+      "Ingame-Name": "mr_sodacat",
+      "Discord-Tag": "mr_sodacat#6390",
+      "UUID": "74ba8a86c78f4b7fa407bdb61c8619f1"
+    },
+    {
+      "Ingame-Name": "Ninjamaster1052",
+      "Discord-Tag": "Rownyn#6323",
+      "UUID": "f8901ebc4ea1449db3fe575bbdee704d"
+    },
+    {
       "Ingame-Name": "NazBr0",
       "Patron": "NazBro",
       "UUID": "6ec6bb6dbb8b4b05b126ad7a5030ebc2"
@@ -102,6 +112,12 @@
       "Patron": "Some random dude",
       "Discord-Tag": "Somerandomdude#5907",
       "UUID": "0a0133c6f3e74d8a875f01e6a7136525"
+    },
+    {
+      "Ingame-Name": "UnsafeDodo",
+      "Patron": "UranusDarkness",
+      "Discord-Tag": "UranusDarkness#9950",
+      "UUID": "5392155961ff49e49a012e89ec611a8c"
     }
   ],
   "early_access":
